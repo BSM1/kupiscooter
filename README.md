@@ -1,2 +1,2 @@
 # kupiscooter
-simple online store
+simple online mototechnics store
