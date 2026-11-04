@@ -1,0 +1,26 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+/* PLEASE DO NOT COPY AND PASTE THIS CODE. */(function(){var w=window,C='___grecaptcha_cfg',cfg=w[C]=w[C]||{},N='grecaptcha';var gr=w[N]=w[N]||{};gr.ready=gr.ready||function(f){(cfg['fns']=cfg['fns']||[]).push(f);};w['__recaptcha_api']='https://web.archive.org/web/20260218091607/https://www.google.com/recaptcha/api2/';(cfg['render']=cfg['render']||[]).push('6LeppbMmAAAAAItyXOEDTyNW_Jo8mUCCV0dyJxZt');(cfg['onload']=cfg['onload']||[]).push('recaptchaCallback');(cfg['clr']=cfg['clr']||[]).push('true');(cfg['anchor-ms']=cfg['anchor-ms']||[]).push(20000);(cfg['execute-ms']=cfg['execute-ms']||[]).push(30000);w['__google_recaptcha_client']=true;var d=document,po=d.createElement('script');po.type='text/javascript';po.async=true; po.charset='utf-8';po.src='https://web.archive.org/web/20260218091607/https://www.gstatic.com/recaptcha/releases/vUgXt_KV952_-5BB2jjloYzl/recaptcha__en.js';po.crossOrigin='anonymous';po.integrity='sha384-NxC6EulzTzbo3gcE9JWfKqkZdjEr2DRCX4yyCMUFwnxmPb/NCKA6n3gXkA+eyQg0';var e=d.querySelector('script[nonce]'),n=e&&(e['nonce']||e.getAttribute('nonce'));if(n){po.setAttribute('nonce',n);}var s=d.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();
+}
+
+/*
+     FILE ARCHIVED ON 09:16:07 Feb 18, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:02:38 Nov 04, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.57
+  load_resource: 95.551
+  PetaboxLoader3.datanode: 94.852
+*/
