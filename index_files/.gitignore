@@ -1,0 +1,23 @@
+# Системные файлы Windows (по вашему запросу)
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Временные файлы Vim (по вашему запросу)
+*~
+*.swp
+*.swo
+.swp
+.swo
+.*.swp
+.*.swo
+
+# IDE и редакторы кода (VS Code, WebStorm и др.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
