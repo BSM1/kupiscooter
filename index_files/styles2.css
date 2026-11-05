@@ -15757,54 +15757,54 @@ playback timings (ms):
 }
 
 .m-catalog__bg-img--maksi {
-    background-image: url(./index_files/maksi-moto-with-gradient-v2.png);
-    background-image: image-set(url(./index_files/maksi-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/maksi-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/maksi-moto-with-gradient-v2.png) type('image/png'));
+    /*background-image: url(./index_files/maksi-moto-with-gradient-v2.png);*/
+    /*background-image: image-set(url(./index_files/maksi-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/maksi-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/maksi-moto-with-gradient-v2.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--enduro,.m-catalog__bg-img--offroad {
-    background-image: url(./index_files/enduro-moto-with-gradient-v2.png);
-    background-image: image-set(url(./index_files/enduro-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/enduro-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/enduro-moto-with-gradient-v2.png) type('image/png'));
+    /*background-image: url(./index_files/enduro-moto-with-gradient-v2.png);*/
+    /*background-image: image-set(url(./index_files/enduro-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/enduro-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/enduro-moto-with-gradient-v2.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--road {
-    background-image: url(./index_files/road-moto-with-gradient-v2.png);
-    background-image: image-set(url(./index_files/road-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/road-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/road-moto-with-gradient-v2.png) type('image/png'));
+    /*background-image: url(./index_files/road-moto-with-gradient-v2.png);*/
+    /*background-image: image-set(url(./index_files/road-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/road-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/road-moto-with-gradient-v2.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--pitbik {
-    background-image: 
-        url(./index_files/pitbike-moto-with-gradient-v2.png);
-    background-image: image-set(
+    /*background-image: 
+        url(./index_files/pitbike-moto-with-gradient-v2.png);*/
+    /*background-image: image-set(
         url(./index_files/pitbike-moto-with-gradient-v2.avif) type('image/avif'),
         url(./index_files/pitbike-moto-with-gradient-v2.webp) type('image/webp'),
-        url(./index_files/pitbike-moto-with-gradient-v2.png) type('image/png'));
+        url(./index_files/pitbike-moto-with-gradient-v2.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--electrotransport {
-    background-image: 
-        url(./index_files/electrotransport-v7.png);
+    /*background-image: 
+        url(./index_files/electrotransport-v7.png);*/
 
-    background-image: image-set(
+    /*background-image: image-set(
         url(./index_files/electrotransport-v7.avif) type('image/avif'),
         url(./index_files/electrotransport-v7.webp) type('image/webp'),
-        url(./index_files/electrotransport-v7.png) type('image/png'));
+        url(./index_files/electrotransport-v7.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--mop {
-    background-image: url(./index_files/mop-moto-with-gradient-v2.png);
-    background-image: image-set(url(./index_files/mop-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/mop-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/mop-moto-with-gradient-v2.png) type('image/png'));
+    /*background-image: url(./index_files/mop-moto-with-gradient-v2.png);*/
+    /*background-image: image-set(url(./index_files/mop-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/mop-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/mop-moto-with-gradient-v2.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--quadro {
-    background-image: url(./index_files/quadro-moto-with-gradient-v2.png);
-    background-image: image-set(url(./index_files/quadro-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/quadro-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/quadro-moto-with-gradient-v2.png) type('image/png'));
+    /*background-image: url(./index_files/quadro-moto-with-gradient-v2.png);*/
+    /*background-image: image-set(url(./index_files/quadro-moto-with-gradient-v2.avif) type('image/avif'),url(./index_files/quadro-moto-with-gradient-v2.webp) type('image/webp'),url(./index_files/quadro-moto-with-gradient-v2.png) type('image/png'));*/
 }
 
 .m-catalog__bg-img--zapchasti {
-    background-image: url(./index_files/zaphchasti-v0.png?v0);
-    background-image: image-set(url(./index_files/zaphchasti-v0.avif?v0) type('image/avif'), url(./index_files/zaphchasti-v0.webp?v0) type('image/webp'),url(./index_files/zaphchasti-v0.png?v0) type('image/png'));
-    background-position: center;
-    background-size: 90%;
+    /*background-image: url(./index_files/zaphchasti-v0.png?v0);*/
+    /*background-image: image-set(url(./index_files/zaphchasti-v0.avif?v0) type('image/avif'), url(./index_files/zaphchasti-v0.webp?v0) type('image/webp'),url(./index_files/zaphchasti-v0.png?v0) type('image/png'));*/
+    /*background-position: center;*/
+    /*background-size: 90%;*/
 }
 
 .m-catalog .m-catalog__item h2.m-catalog__title {
